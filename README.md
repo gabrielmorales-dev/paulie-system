@@ -31,7 +31,7 @@ db_schema.sql: (Opcional, si lo creas) Script para recrear la estructura de tabl
 Clonar el repositorio:
 
 Bash
-git clone https://github.com/TU_USUARIO/paulie-system.git
+git clone https://github.com/gabrielmorales-dev/paulie-system.git
 Instalar dependencias:
 
 Bash
